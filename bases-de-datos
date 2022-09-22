@@ -1,0 +1,22 @@
+- USA Real Estate Dataset | Datos de venta de propiedades en Estados Unidos | 923,159 registros
+https://www.kaggle.com/datasets/faryarmemon/usa-housing-market-factors?select=Monthly_Macroeconomic_Factors.csv
+- U.S. Housing Market Factors | Datos macroeconómicos de Estados Unidos que influyen sobre los precios de venta de vivienda en Estados Unidos
+https://www.kaggle.com/datasets/faryarmemon/usa-housing-market-factors?select=Monthly_Macroeconomic_Factors.csv
+-- Dos bases de datos diferentes, pero relacionadas; podríamos utilizar la base de datos USA Real Estate Dataset,
+y para mayor profunidad de análisis, complementar con U.S. Housing Market Factors.
+
+
+- Airbnb Open Data | 102,599 registros
+https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata
+- Airbnb-NYC-Cleaned | 69,302 registros
+https://www.kaggle.com/datasets/sandeepmajumdar/airbnbnyccleaned
+-- Base de datos sobre listings de Airbnb en Nueva York.
+
+
+- Credit score classification | 100,000 registros
+https://www.kaggle.com/datasets/parisrohan/credit-score-classification
+-- Información crediticia y financiera de los clientes de un banco, datos pensados para crear un modelo analítico crediticio. 
+
+- Dataset: NetFlix Shows | 8,807 registros
+https://www.kaggle.com/datasets/infamouscoder/dataset-netflix-shows
+-- Información general sobre más de 8,000 series de Netflix
