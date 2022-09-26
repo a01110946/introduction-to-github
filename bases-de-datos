@@ -4,6 +4,7 @@ https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset
 https://www.kaggle.com/datasets/faryarmemon/usa-housing-market-factors?select=Monthly_Macroeconomic_Factors.csv
 -- Dos bases de datos diferentes, pero relacionadas; podríamos utilizar la base de datos USA Real Estate Dataset,
 y para mayor profunidad de análisis, complementar con U.S. Housing Market Factors.
+    Problemática social: El acceso a una vivienda digna es un derecho humano universal, al cual más de dos mil millones de habitantes en el planeta no tienen acceso. Con el fin de resolver este problema, los gobiernos se han dado a la tarea de desarrollar políticas públicas que faciliten a sus ciudadanos el acceso a la vivienda; sin embargo, al no tener acceso a datos concretos sobre el resultado de sus estretegia, en muchos casos estas políticas han estado mal enfocadas, representando un desperdicio de esfuerzos y recursos al no tener. Tener la capacidad de entender qué atributos impactan en mayor medida los precios de la vivienda ayuda a las instituciones gubernamentales a ajustar sus políticas públicas con el fin de mejorar sus estrategias en materia de vivienda accesible. Esto, a su vez, impacta ampliamente en la capacidad de las familias de acceder a una vivienda digna.
 
 
 - Airbnb Open Data | 102,599 registros
